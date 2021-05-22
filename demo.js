@@ -1,0 +1,1 @@
+document.write("Hello This is method 2 of implementing JS with HTML");
